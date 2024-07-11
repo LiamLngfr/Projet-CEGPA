@@ -1,5 +1,6 @@
 # Projet-CEGPA 
-Projet CEGPA commandité par J-F Hangouët pendant le stage à Forcalquier de fin de 1ère année d'ingénieur à l'ENSG Géomatique
+Projet CEGPA Forcalquier 2024. 
+Projet commandité par J-F Hangouët pendant le stage à Forcalquier de fin de 1ère année d'ingénieur à l'ENSG Géomatique.
 
 Le projet consistait à essayer de rendre les orthophotos plus éco-responsables.
 Avec cet objectif un des moyen que nous avons trouvé est la création d'un programme qui pourrait calculer les emissions de CO2 et l'utilisation énergétique en fonction des différents paramètres utilisé dans les orthophotos.
