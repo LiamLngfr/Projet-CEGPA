@@ -13,7 +13,7 @@ De plus, c'est un code étudiant fait en un peu plus d'une semaine, donc des err
 # Utilisation 
 Pour chaque version : Ouvrir la version voulue, aller dans le dossier du language désiré et exécuter le .exe correspondant. 
 Les dossiers ressources contiennent les images explicatives des différentes variables.
-IMPROTANT : Jusqu'à la version 1.3 comprise, entre 2 calcul il est important de faire un reset, sinon certaines valeurs peuvent s'avérer biaisées.
+IMPORTANT : Jusqu'à la version 1.3 comprise, entre 2 calcul il est important de faire un reset, sinon certaines valeurs peuvent s'avérer biaisées.
 Recommandé : Version 1.3 +.
 
 # Remerciments
