@@ -12,6 +12,7 @@ De plus, c'est un code fait par un étudiant en un peu plus d'une semaine, donc 
 # Utilisation 
 Pour chaque version : Ouvrir la version voulue, aller dans le dossier du language désiré et exécuter le .exe correspondant. 
 Les dossiers ressources contiennent les images explicatives des différentes variables.
+La variable Hauteur maximale de terrain correspond à la hauteur maximale de terrain visible en stéréoscopie.
 IMPORTANT : Jusqu'à la version 1.3 comprise, entre 2 calculs il est important de faire un reset, sinon certaines valeurs peuvent devenir biaisées.
 Recommandé : Version 1.3 +, les versions antérieures contiennent des erreurs lors des calculs.
 
