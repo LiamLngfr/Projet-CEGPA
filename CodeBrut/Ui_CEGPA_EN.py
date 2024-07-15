@@ -602,7 +602,7 @@ class Ui_CEGPA(object):
         self.checkBoxParisDakar.setText("")
         self.checkBoxParisDakar.setObjectName("checkBoxParisDakar")
         self.framePNY = QtWidgets.QFrame(CEGPA)
-        self.framePNY.setGeometry(QtCore.QRect(590, 610, 221, 71))
+        self.framePNY.setGeometry(QtCore.QRect(580, 610, 221, 71))
         self.framePNY.setFrameShape(QtWidgets.QFrame.StyledPanel)
         self.framePNY.setFrameShadow(QtWidgets.QFrame.Raised)
         self.framePNY.setObjectName("framePNY")
@@ -714,11 +714,11 @@ class Ui_CEGPA(object):
         self.labelConsokW.setText(_translate("CEGPA", "Final energy consumption (kWh)"))
         self.pushButtonCalcul.setText(_translate("CEGPA", "Comput"))
         self.pushButtonResetGlobal.setText(_translate("CEGPA", "GLOBAL RESET"))
-        self.labelEau.setText(_translate("CEGPA", "Showers"))
+        self.labelEau.setText(_translate("CEGPA", "Number of showers"))
         self.labelInsta.setText(_translate("CEGPA", "Number of instagram reels"))
         self.labelMachine.setText(_translate("CEGPA", "Washing machine cycles"))
         self.labelParisDakar.setText(_translate("CEGPA", "Distance Paris Dakar"))
-        self.labelPNY.setText(_translate("CEGPA", "Paris New-York"))
+        self.labelPNY.setText(_translate("CEGPA", "Emission of a flight Paris New-York"))
         self.textBrowserParisDakar.setHtml(_translate("CEGPA", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
