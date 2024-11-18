@@ -18,6 +18,3 @@ Recommandé : Version 1.3 +, les versions antérieures contiennent des erreurs l
 
 # Informations
 Application développée par L.Longfier pendant 2 semaines de juillet 2024 dans le cadre du projet CEGPA. Application programmée intégralement en python à l'aide des modules pyqt5, math et transformée en executable grâce à pyinstaller.
-
-# Remerciments
-Merci à tout les membres de mon groupe, notamment à A.Floch et G.Potel qui m'ont fournis les images, et merci à J-F Hangouët pour tout ses conseils et ses remarques durant toute la phase de préparation et de programmation.
